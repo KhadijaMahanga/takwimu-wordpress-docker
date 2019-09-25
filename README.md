@@ -1,2 +1,2 @@
-# takwimu-wordpress-docker
-Wordpress docker container 
+# Takwimu wordpress
+Wordpress docker cms for takwimu site
