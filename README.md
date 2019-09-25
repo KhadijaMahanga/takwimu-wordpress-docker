@@ -1,2 +1,8 @@
 # Takwimu wordpress
-Wordpress docker cms for takwimu site
+
+Wordpress docker environment for takwimu cms.
+
+## Requirements
+
+- docker
+- docker-compose
